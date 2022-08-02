@@ -1,0 +1,12 @@
+*{
+	background-color: gray;
+}
+#circle{
+	background-color:  red;
+    width: 200px;
+    height: 200px;
+    border-radius: 500px;
+    position: relative;
+    left: 640px;
+    top: 210px;
+}
